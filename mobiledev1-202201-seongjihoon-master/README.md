@@ -2,9 +2,6 @@
 
 - DevScheduleView는 사용자의 일정을 일간, 주간으로 보여줄 수 있는 커스텀 라이브러리 입니다. 
 
-<img width="212" alt="image" src="https://open.oss.navercorp.com/storage/user/900/files/5e70a800-943d-11ec-8e88-6794ccb41a5a">  <img width="211" alt="image" src="https://open.oss.navercorp.com/storage/user/900/files/7ea06700-943d-11ec-9bff-e8e5d20e2b26"> 
-
-
 ## Features
 
 - Schedules Of Members Day View
