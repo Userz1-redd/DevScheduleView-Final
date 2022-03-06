@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="indicator_day_text">%d시 \n 멤버 = %s</string>
+    <string name="indicator_week_text">%d월 %d일 \n 멤버 = %s</string>
+    <string name="indicator_out_text">화면을 벗어났습니다</string>
+    <string name="week_full_text">%s:%s~%s:%s\n%s</string>
+    <string name="week_start_text">%s:%s~\n%s</string>
+    <string name="week_end_text">~%s:%s\n%s</string>
+    <string name="week_allday_text">종일\n%s</string>
+    <string name="over_num_text">...+%d</string>
+    <string name="ellipsis">...</string>
+    <string name="date_in_january">1월 %d일</string>
+    <string name="date_with_month">%d월 %d일</string>
+    <string name="date_only_day">%d일</string>
+    <string name="hour">%d시</string>
+</resources>

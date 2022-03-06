@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DevScheduleView">
+        <attr name = "viewType" format = "integer"/>
+        <attr name = "visibleNumberOfMembers" format = "integer"/>
+    </declare-styleable>
+</resources>
